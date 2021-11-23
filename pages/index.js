@@ -1,8 +1,9 @@
 import React from 'react';
+import App from '../src/components/App';
 
 const Index = () => { 
     return(
-        <div>Hi</div>
+        <App />
     );
 }
 
